@@ -1,0 +1,17 @@
+{
+  "titulo": "Banco com problemas (para teste)",
+  "questoes": [
+    {"enunciado": "O que é um navegador?",
+     "alternativas": ["Um jogo", "Uma tela", "Um programa usado para acessar páginas da web e outros recursos online", "Um cabo"], "correta": "C"},
+    {"enunciado": "Qual é a função do teclado?",
+     "alternativas": ["Mostrar imagens", "Imprimir", "Digitar letras, números e comandos no computador", "Gravar vídeo"], "correta": "C"},
+    {"enunciado": "Qual destas não é uma rede social?",
+     "alternativas": ["Um site de vídeos", "Um app de fotos", "Um editor de texto instalado no computador", "Um app de mensagens"], "correta": "C"},
+    {"enunciado": "Qual alternativa NÃO descreve um vírus de computador?",
+     "alternativas": ["Programa que se copia", "Pode apagar arquivos", "Um programa útil, feito para ajudar a organizar as suas pastas", "Pode roubar dados"], "correta": "C"},
+    {"enunciado": "Qual é a extensão de um arquivo de texto simples?",
+     "alternativas": [".txt", ".png", ".mp4", "Todas as anteriores"], "correta": "A"},
+    {"enunciado": "Para que serve um backup?",
+     "alternativas": ["Apagar arquivos", "Fazer uma cópia dos arquivos", "Fazer uma cópia dos arquivos"], "correta": "B"}
+  ]
+}

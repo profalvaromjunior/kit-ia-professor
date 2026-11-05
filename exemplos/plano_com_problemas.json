@@ -1,0 +1,19 @@
+{
+  "tema": "Redes de computadores",
+  "turma": "7º ano",
+  "duracao_min": 50,
+  "objetivos": [
+    "Entender o que é uma rede",
+    "Conhecer os tipos de rede",
+    "Identificar os equipamentos de uma rede local",
+    "Compreender o que é um endereço IP"
+  ],
+  "momentos": [
+    {"nome": "Aula expositiva", "min": 30, "atividade": "Explicar o conteúdo com slides."},
+    {"nome": "Exercício", "min": 20, "atividade": ""},
+    {"nome": "Correção", "min": 10, "atividade": "Corrigir no quadro."}
+  ],
+  "avaliacao": [
+    {"objetivo": 3, "instrumento": "Lista de exercícios"}
+  ]
+}

@@ -1,0 +1,1 @@
+O computador guarda arquivos. Cada arquivo tem um nome. O nome termina com um ponto e algumas letras. Essas letras são a extensão. Por exemplo, .txt é um texto. Já .jpg é uma foto. A extensão ajuda o computador a abrir o arquivo no programa certo. Se você mudar a extensão, o arquivo pode não abrir mais. Por isso, tenha cuidado ao renomear.

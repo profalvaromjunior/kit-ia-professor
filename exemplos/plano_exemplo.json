@@ -1,0 +1,20 @@
+{
+  "tema": "Tipos de arquivo e extensões",
+  "turma": "6º ano, Tecnologia Educacional",
+  "duracao_min": 50,
+  "objetivos": [
+    "Identificar o tipo de um arquivo pela extensão do nome",
+    "Explicar com as próprias palavras por que mudar a extensão pode impedir a abertura do arquivo"
+  ],
+  "momentos": [
+    {"nome": "Abertura", "min": 8, "atividade": "Mostrar cinco arquivos sem extensão visível e pedir palpites sobre o que cada um é."},
+    {"nome": "Exploração guiada", "min": 15, "atividade": "Em duplas, abrir a pasta de exemplos e preencher a tabela extensão / tipo / programa que abre."},
+    {"nome": "Prática", "min": 17, "atividade": "Cada dupla renomeia uma cópia de um arquivo, tenta abrir e registra o que aconteceu."},
+    {"nome": "Fechamento", "min": 10, "atividade": "Bilhete de saída: duas perguntas escritas sobre o que viram."}
+  ],
+  "avaliacao": [
+    {"objetivo": 1, "instrumento": "Tabela preenchida pelas duplas, conferida por amostragem"},
+    {"objetivo": 2, "instrumento": "Bilhete de saída, pergunta 2"}
+  ],
+  "materiais": ["Pasta com 10 arquivos de exemplo", "Computadores com visualização de extensões ligada", "Tabela impressa"]
+}

@@ -1,0 +1,27 @@
+{
+  "titulo": "Mini-projeto: site de uma página",
+  "niveis": ["Insuficiente", "Básico", "Proficiente", "Avançado"],
+  "nota_maxima": 10,
+  "criterios": [
+    {"nome": "Conteúdo", "peso": 30, "descritores": [
+      "Não apresenta o tema ou traz só uma frase solta.",
+      "Apresenta o tema, mas não dá nenhum exemplo.",
+      "Apresenta o tema e dá pelo menos um exemplo do dia a dia.",
+      "Apresenta o tema, dá dois exemplos ou mais e cita a fonte consultada."]},
+    {"nome": "Estrutura da página", "peso": 30, "descritores": [
+      "A página não abre no navegador ou não tem título nem parágrafos.",
+      "A página abre e tem título e parágrafos, mas sem lista nem imagem.",
+      "A página tem título, parágrafos e uma lista ou uma imagem com texto alternativo.",
+      "A página tem título, parágrafos, lista e imagem com texto alternativo, sem erro de marcação."]},
+    {"nome": "Aparência e leitura", "peso": 20, "descritores": [
+      "O texto é difícil de ler: letra minúscula ou cor sem contraste.",
+      "O texto é legível, mas há mistura de muitas fontes ou cores.",
+      "O texto é legível e a página usa até duas fontes e três cores.",
+      "O texto é legível, a página segue o limite de fontes e cores e funciona no celular."]},
+    {"nome": "Processo e uso de IA", "peso": 20, "descritores": [
+      "Não entregou o registro do processo nem a declaração de uso de IA.",
+      "Entregou a declaração de uso de IA, mas sem o registro do processo.",
+      "Entregou a declaração de uso de IA e o registro de pelo menos duas etapas.",
+      "Entregou a declaração, o registro das etapas e uma nota sobre o que mudou depois de revisar a sugestão da IA."]}
+  ]
+}

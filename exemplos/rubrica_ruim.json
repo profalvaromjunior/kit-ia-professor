@@ -1,0 +1,12 @@
+{
+  "titulo": "Rubrica com problemas (para teste)",
+  "niveis": ["Insuficiente", "Básico", "Proficiente", "Avançado"],
+  "criterios": [
+    {"nome": "Conteúdo", "peso": 60, "descritores": [
+      "Trabalho ruim", "Trabalho fraco", "Trabalho bom", "Trabalho excelente"]},
+    {"nome": "Organização", "peso": 30, "descritores": [
+      "Texto desorganizado", "Texto organizado em partes", "Texto organizado em partes e títulos"]},
+    {"nome": "Apresentação", "peso": 20, "descritores": [
+      "Não entregou", "Entregou com falhas", "Entregou com falhas", "Entregou sem falhas"]}
+  ]
+}

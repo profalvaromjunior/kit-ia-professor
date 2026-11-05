@@ -1,0 +1,17 @@
+{
+  "titulo": "Redes e segurança, 6º ano",
+  "questoes": [
+    {"enunciado": "Qual equipamento liga vários computadores de uma mesma rede local por cabos?",
+     "alternativas": ["Impressora", "Monitor", "Switch", "Webcam"], "correta": "C", "objetivo": "Reconhecer equipamentos de rede"},
+    {"enunciado": "O que o endereço IP identifica em uma rede?",
+     "alternativas": ["A cor do cabo", "Um dispositivo conectado", "O volume do som", "A marca do roteador"], "correta": "B"},
+    {"enunciado": "Qual protocolo é usado para abrir páginas da web de forma segura?",
+     "alternativas": ["HTTPS", "SMTP, usado para enviar e-mails", "DHCP, que distribui endereços IP", "FTP, usado para transferir arquivos"], "correta": "A"},
+    {"enunciado": "Em uma rede Wi-Fi, o que o roteador faz com os dados que chegam da internet?",
+     "alternativas": ["Apaga os pacotes depois de ler", "Guarda tudo em um pen drive", "Transforma os dados em energia elétrica", "Encaminha cada pacote ao dispositivo que o pediu"], "correta": "D"},
+    {"enunciado": "Qual destas práticas ajuda a proteger uma conta?",
+     "alternativas": ["Repetir a mesma senha em todos os sites", "Ligar a verificação em duas etapas", "Emprestar a senha a colegas", "Anotar a senha no perfil"], "correta": "B"},
+    {"enunciado": "Chegou uma mensagem que pede sua senha e traz um link estranho. O que fazer?",
+     "alternativas": ["Responder logo", "Encaminhar a todos os seus contatos agora", "Não clicar e avisar um adulto", "Clicar para conferir"], "correta": "C"}
+  ]
+}

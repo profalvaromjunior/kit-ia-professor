@@ -1,0 +1,13 @@
+{
+  "name": "kit-ia-professor",
+  "description": "Skills de IA para professores, em português",
+  "owner": {"name": "Álvaro Machado Júnior"},
+  "plugins": [
+    {
+      "name": "kit-ia-professor",
+      "description": "Plano de aula, sequência, atividade, rubrica, questões, texto de apoio e uso de IA na turma.",
+      "source": "./",
+      "category": "education"
+    }
+  ]
+}

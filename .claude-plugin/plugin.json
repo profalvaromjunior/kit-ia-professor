@@ -1,0 +1,10 @@
+{
+  "name": "kit-ia-professor",
+  "description": "Sete skills do Claude para professores: plano de aula, sequência didática, atividades, rubricas, questões, textos de apoio e combinados de uso de IA, com quatro verificadores em Python.",
+  "version": "1.0.0",
+  "author": {"name": "Álvaro Machado Júnior"},
+  "homepage": "https://github.com/profalvaromjunior/kit-ia-professor",
+  "repository": "https://github.com/profalvaromjunior/kit-ia-professor",
+  "license": "MIT",
+  "keywords": ["educação", "professor", "plano de aula", "rubrica", "pt-BR", "skills"]
+}
