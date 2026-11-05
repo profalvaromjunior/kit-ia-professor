@@ -32,8 +32,16 @@ decide é você.**
 
 ```
 /plugin marketplace add profalvaromjunior/kit-ia-professor
-/plugin install kit-ia-professor
+/plugin install kit-ia-professor@kit-ia-professor
 ```
+
+No PowerShell ou no terminal, fora do Claude Code, troque a `/` por `claude`:
+`claude plugin marketplace add profalvaromjunior/kit-ia-professor` e
+`claude plugin install kit-ia-professor@kit-ia-professor`. É preciso ter o **Git** instalado.
+
+Instalado como plugin, os comandos ganham o prefixo do kit: `/kit-ia-professor:prof-plano`,
+`/kit-ia-professor:prof-rubrica` e assim por diante. Digite `/prof` e escolha na lista. Na instalação
+manual (opção 3), o comando fica só `/prof-plano`.
 
 **2. Pedindo ao próprio Claude**, colando no chat:
 
